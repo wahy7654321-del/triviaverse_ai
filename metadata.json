@@ -1,0 +1,10 @@
+{
+  "name": "TriviaVerse AI - Kuis Interaktif Host Dinamis",
+  "description": "Permainan trivia game show spektakuler dengan AI Host berkepribadian dinamis, audio TTS realistis (Gemini 3.8 Flash TTS), percakapan suara real-time (Gemini 3.8 Live API), dan grounding Google Search (Gemini 3.5 Flash).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
